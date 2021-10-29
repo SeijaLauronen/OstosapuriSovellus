@@ -1,0 +1,2 @@
+# OstosapuriSovellus
+Valmis sovellus androidille
