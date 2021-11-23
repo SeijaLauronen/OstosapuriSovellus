@@ -1,5 +1,8 @@
 # OstosapuriSovellus
-Valmis sovellus androidille
+Valmis sovellus androidille. 
+Alunperin tehty ryhmätyönä Emmi Pöyhösen ja Eveliina Mutasen kanssa Savonian mobiilikurssilla. 
+Jatkokehitetty omiin tarpeisiin/Seija Lauronen.
+
 Saat asennettua omaan Androidkännykkääsi tämän esim näin:
 1) Tallenna apk-tiedosto googledriveen
 2) Lähetä linkki sähköpostiisi
